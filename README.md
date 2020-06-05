@@ -15,7 +15,7 @@ California’s timely response has brought it time and flattened the curve. In c
 Experience with wildfires and earthquakes. The California state government has built up extensive disaster-response machinery, and people are accustomed to obeying official orders in a crisis. California’s timely response has been proved to be the key to win the epidemic, while the humane care embodied in New York in the midst of the disaster has provided solid support for its people. We hope that all government could learn from this case and better serves its people.
 
 
-![pic1](/A_Tale_of_Two_States.jpg)
+![pic1](/WechatIMG9644.jpeg)
 **[Tableau Dashboard URL](https://public.tableau.com/profile/yiying7787#!/vizhome/Book1_15852641796700/CAvsNY2?publish=yes)**
 
 
